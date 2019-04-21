@@ -1,6 +1,6 @@
 {
-  "name": "c-uitls",
-  "version": "1.0.0",
+  "name": "c-utils",
+  "version": "1.0.1",
   "repo": "WestleyR/c-utils",
   "description": "Simple C Utils For Your C Code",
   "keywords": ["c", "utils", "basic", "functions", "add", "char", "to", "string"],
