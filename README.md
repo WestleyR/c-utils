@@ -1,32 +1,20 @@
-# C-Utils - Simple C Utils For Your C Code
+## c-utils
+
+Simple c utils functions for your c code.
 
 <br>
 
 ## Install
 
-Install by [clib](https://github.com/clib/clib):
-
-## Example
+Install by [clib](https://github.com/clibs/clib):
 
 ```
 $ clib install WestleyR/c-utils
 ```
 
-```c
+## Example
 
-#include <stdio.h>
-
-#include "c-utils/c-utils.h"
-
-int main() {
-
-    // No example here?...
-
-    return(0);
-}
-```
-
-Then add `CFLAGS += -I deps` to your Makefile.
+See `src/string-utils.h` and other header files for examples.
 
 <br>
 

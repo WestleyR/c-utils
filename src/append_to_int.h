@@ -1,7 +1,7 @@
-// Created by: WestleyR
+// created by: WestleyR
 // email: westleyr@nym.hush.com
-// Date: Apr 20, 2019
 // https://github.com/WestleyR/c-utils
+// date: Dec 29, 2019
 // version-1.0.0
 //
 // The Clear BSD License
@@ -12,10 +12,6 @@
 // This software is licensed under a Clear BSD License.
 //
 
-#include <string.h>
+int append_to_int(const int num1, const int num2);
 
-void add_char_to_string(char*, char);
-
-//
-// End c-utils.c
-//
+// vim: tabstop=2 shiftwidth=2 expandtab autoindent softtabstop=0
